@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-CaU831fZ.js","./index-DeT2M_mL.js"])))=>i.map(i=>d[i]);
+import{_ as r}from"./index-tPAe9Dy4.js";import{registerPlugin as i}from"./index-DeT2M_mL.js";import"./vue-vendor-DEVBTxx0.js";import"./vant-CoNmWDyF.js";const p=i("Device",{web:()=>r(()=>import("./web-CaU831fZ.js"),__vite__mapDeps([0,1]),import.meta.url).then(e=>new e.DeviceWeb)});export{p as Device};

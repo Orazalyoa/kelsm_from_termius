@@ -1,0 +1,1 @@
+import{k as n,A as r,D as o,B as s}from"./index-tPAe9Dy4.js";const i=a=>r("/organizations",a),g=a=>n(`/organizations/${a}`),z=(a,t)=>o(`/organizations/${a}`,t),m=(a,t={})=>n(`/organizations/${a}/members`,t),u=(a,t)=>s(`/organizations/${a}/members/${t}`),c=a=>n(`/organizations/${a}/stats`);export{g as a,m as b,i as c,c as g,u as r,z as u};
