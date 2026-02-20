@@ -1,0 +1,16 @@
+# Laravel
+laravel/vendor
+laravel/node_modules
+laravel/.env
+laravel/public/storage
+laravel/storage/*.key
+
+# Go
+chat/bin
+chat/pkg
+chat/*.log
+chat/*.exe
+
+# Frontend
+frontend/node_modules
+.DS_Store
